@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # 06-3D-RPG
-=======
+A 3D RPG Adventure Game!
 # Exercise-06c-Dialogue
 >>>>>>> d94b36e (commit)
 =======
@@ -25,4 +24,4 @@ None
 
 Henryyy666
 
->>>>>>> c5d78ddaf95916eec299fe4222e609459aad95b2
+
